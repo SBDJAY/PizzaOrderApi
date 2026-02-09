@@ -1,3 +1,7 @@
+//Daniel Pius
+//Assignment 3 Pizza order
+//Data Class
+
 using Microsoft.EntityFrameworkCore;
 using PizzaOrderApi.Models;
 
